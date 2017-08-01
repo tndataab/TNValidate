@@ -55,14 +55,14 @@ else
 
 # Documentation
 * [Using TNValidate](https://github.com/edumentab/TNValidate/wiki/Using-TNValidate)
-* [Validator Reference](https://github.com/edumentab/TNValidate/wiki/Using-TNValidate)
-* [Error Codes](https://github.com/edumentab/TNValidate/wiki/Using-TNValidate)
-* [Extending TNValidate](https://github.com/edumentab/TNValidate/wiki/Using-TNValidate)
+* [Validator Reference](https://github.com/edumentab/TNValidate/wiki/Validator-reference)
+* [Error Codes](https://github.com/edumentab/TNValidate/wiki/Error-codes)
+* [Extending TNValidate](https://github.com/edumentab/TNValidate/wiki/Extending-TNValidate)
 
 # Contribute
 We welcome suggestions for future features, bug reports and - of course - patches! :-) An easy way to help is to translate the error message generation file to other languages.
 
 # About The Authors
-Tore Nestenius is the creator of TNValidate.NET. He runs [TN Datakonsult AB](http://www.tn-data.se/), a consulting company located in Helsingborg, Sweden. He was inspired to create TNValidate after listening to a screencast on [Building a Progressive Fluent Interface](http://www.dimecasts.net/Casts/CastDetails/95).
+Tore Nestenius is the creator of TNValidate.NET. He one of the founders [Edument AB](https://www.edument.se/), a consulting company located in Helsingborg, Sweden. He was inspired to create TNValidate after listening to a screencast on [Building a Progressive Fluent Interface](http://www.dimecasts.net/Casts/CastDetails/95).
 
-[Jonathan Worthington](http://www.jnthn.net/) provided code review, did some refactoring, made corrections to the English translation, and wrote the documentation for TNValidate. Originally from England, he now lives in Slovakia, a beautiful central-European country. His expertise lie in compiler development, and he is one of the main developers of the Rakudo Perl 6 compiler.
+[Jonathan Worthington](https://edument.se/experts/jonathan-worthington) provided code review, did some refactoring, made corrections to the English translation, and wrote the documentation for TNValidate. Originally from England, he now lives in Slovakia, a beautiful central-European country. His expertise lie in compiler development, and he is one of the main developers of the Rakudo Perl 6 compiler.
