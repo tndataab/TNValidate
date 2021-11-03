@@ -54,15 +54,15 @@ else
 ```
 
 # Documentation
-* [Using TNValidate](https://github.com/edumentab/TNValidate/wiki/Using-TNValidate)
-* [Validator Reference](https://github.com/edumentab/TNValidate/wiki/Validator-reference)
-* [Error Codes](https://github.com/edumentab/TNValidate/wiki/Error-codes)
-* [Extending TNValidate](https://github.com/edumentab/TNValidate/wiki/Extending-TNValidate)
+* [Using TNValidate](https://github.com/tndataab/TNValidate/wiki/Using-TNValidate)
+* [Validator Reference](https://github.com/tndataab/TNValidate/wiki/Validator-reference)
+* [Error Codes](https://github.com/tndataab/TNValidate/wiki/Error-codes)
+* [Extending TNValidate](https://github.com/tndataab/TNValidate/wiki/Extending-TNValidate)
 
 # Contribute
 We welcome suggestions for future features, bug reports and - of course - patches! :-) An easy way to help is to translate the error message generation file to other languages.
 
 # About The Authors
-Tore Nestenius is the creator of TNValidate.NET. He one of the founders [Edument AB](https://www.edument.se/), a consulting and training company located in Helsingborg, Sweden. He was inspired to create TNValidate after listening to a screencast on [Building a Progressive Fluent Interface](http://www.dimecasts.net/Casts/CastDetails/95).
+Tore Nestenius is the creator of TNValidate.NET. He is a co-founder of [Edument AB](https://www.edument.se/), a consulting and training company located in Helsingborg, Sweden. He was inspired to create TNValidate after listening to a screencast on [Building a Progressive Fluent Interface](https://www.youtube.com/channel/UCSpCNq22KHTKv736UcCkuKw/Casts). Today he works as an independent consultant at [TN Datakonsult AB](https://tn-data.se) where he provides training and consulting services.
 
-[Jonathan Worthington](https://edument.se/experts/jonathan-worthington) provided code review, did some refactoring, made corrections to the English translation, and wrote the documentation for TNValidate. Based in Prague, his expertise lie in compiler development, and he is one of the main developers of the Rakudo Perl 6 compiler.
+[Jonathan Worthington](https://www.jnthn.net/) provided code review, did some refactoring, made corrections to the English translation, and wrote the documentation for TNValidate. Based in Prague, his expertise lie in compiler development, and he is one of the main developers of the Rakudo Perl 6 compiler.
