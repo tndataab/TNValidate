@@ -16,6 +16,9 @@ you to use it in your free or non-free software, and does not obligate you to co
 back any changes. However, if you are in an environment where you are allowed to do so,
 contributions are welcome (especially in the area of adding support for more languages).
 
+# Status
+TNValidate was created in 2009 and is no longer actively developed. It targets .NET Framework 4.0 and is not published as a NuGet package. It still works and is kept here as open source under the MIT license, so you can read the code, copy it or fork it. Bug reports and patches are still welcome, but I can't promise a quick reply.
+
 # Synopsis
 If you want to Just Start Using It, add:
 
@@ -62,7 +65,5 @@ else
 # Contribute
 We welcome suggestions for future features, bug reports and - of course - patches! :-) An easy way to help is to translate the error message generation file to other languages.
 
-# About The Authors
-Tore Nestenius is the creator of TNValidate.NET. He is a co-founder of [Edument AB](https://www.edument.se/), a consulting and training company located in Helsingborg, Sweden. He was inspired to create TNValidate after listening to a screencast on [Building a Progressive Fluent Interface](https://www.youtube.com/channel/UCSpCNq22KHTKv736UcCkuKw/Casts). Today he works as an independent consultant at [TN Datakonsult AB](https://tn-data.se) where he provides training and consulting services.
-
-[Jonathan Worthington](https://www.jnthn.net/) provided code review, did some refactoring, made corrections to the English translation, and wrote the documentation for TNValidate. Based in Prague, his expertise lie in compiler development, and he is one of the main developers of the Rakudo Perl 6 compiler.
+# About The Author
+I'm [Tore Nestenius](https://nestenius.se/about/), and I created TNValidate in 2009 while I was a co-founder and CTO of [Edument](https://www.edument.se/). I was inspired to build it after watching a screencast on Building a Progressive Fluent Interface. Today I work as an independent .NET consultant and trainer through [TN-Data](https://tn-data.se), specialising in authentication, identity and security. I keep this copy so the library stays available.
